@@ -1,4 +1,4 @@
-package ionic.appbvnd115;
+package io.ionic.starter;
 
 import com.getcapacitor.BridgeActivity;
 

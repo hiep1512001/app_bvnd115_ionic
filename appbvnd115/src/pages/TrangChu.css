@@ -1,0 +1,66 @@
+.div-banner {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button-banner {
+    background-color: white;
+    color: #00378A;
+    width: 110px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.div-content {
+    --background: #F4F5F6;
+}
+
+.lable-title-chucnang {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.div-chucnang {
+    text-align: center;
+    background-color: white;
+    margin: 10px;
+    padding: 20px 10px 25px 10px;
+    border-radius: 10px;
+}
+
+.div-chucnang:active {
+    background-color: #D6D9DC;
+}
+
+.div-phonenumber {
+    color: red;
+    padding: 10px;
+    background-color: #F4F5F6;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.div-phonenumber:active {
+    color: darkred;
+    background-color: #D6D9DC;
+}
+
+.div-dangkykhambenh {
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: white;
+    margin: 10px;
+    padding: 20px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.div-footer-banner {
+    padding: 15px 15px 20px 15px;
+    color: white;
+    text-align: center;
+    background-color: #374249;
+}
